@@ -1,0 +1,14 @@
+{
+    "name": "com.juancazzhr.xso.Editor",
+    "rootNamespace": "Juancazzhr.Xso",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
